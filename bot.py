@@ -54,4 +54,4 @@ async def clear(ctx, amount=2):
 async def cmd(ctx):
     await ctx.reply('**moderation->** **kick**,**ban**,**clear**,**unban**,**warn** and **mute**')    	
 
-client.run("")
+client.run("YOUR TOKEN")
